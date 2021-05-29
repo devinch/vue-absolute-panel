@@ -1,0 +1,27 @@
+{
+  "name": "@devinch/vue-absolute-panel",
+  "version": "1.0.0",
+  "description": "a absolute position panel, auto size with content",
+  "main": "./src/index.js",
+  "type": "module",
+  "directories": {
+
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/devinch/vue-absolute-panel.git"
+  },
+  "keywords": [
+    "absolute",
+    "auto",
+    "size"
+  ],
+  "author": "devinch",
+  "license": "MIT",
+  "dependencies": {
+    "vue": "^2.6.12"
+  }
+}
